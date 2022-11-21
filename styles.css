@@ -1,0 +1,11 @@
+.password--label{
+    position: relative;
+}
+.password--btn{
+    position: absolute;
+    right: 5%;
+    top: 15%;
+    border: none;
+    background-color: transparent;
+
+}
